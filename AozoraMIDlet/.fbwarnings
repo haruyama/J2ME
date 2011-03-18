@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="0.9.3" sequence="0" timestamp="-1" release="">
+  <Project filename="&lt;&lt;unnamed project&gt;&gt;">
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/AozoraCanvas$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/AozoraCanvas$2.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/AozoraCanvas$3.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/AozoraCanvas$4.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/AozoraCanvas.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/AozoraMIDlet.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/Bookmark.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/BookmarkRegisterForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/Bookmarks.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/BookmarksList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/DirectoryList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/FileInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/FileUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/RecordStoreUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/RubyInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/Settings.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/SettingsForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin/TategakiUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/AozoraCanvas$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/AozoraCanvas$2.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/AozoraCanvas$3.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/AozoraCanvas$4.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/AozoraCanvas.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/AozoraMIDlet.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/Bookmark.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/BookmarkRegisterForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/Bookmarks.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/BookmarksList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/DirectoryList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/FileInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/FileUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/RecordStoreUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/RubyInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/Settings.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/SettingsForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/verified/classes/TategakiUtil.class</Jar>
+    <AuxClasspathEntry>/home/haruyama/lib/eclipse/workspace/AozoraMIDlet/bin</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/jsr184.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/wma20.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/cldcapi11.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/midpapi20.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/jsr75.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/jsr082.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/j2me-ws.jar</AuxClasspathEntry>
+  </Project>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="3" abbrev="DLS" category="STYLE" uid="0">
+    <Class classname="AozoraCanvas"/>
+    <Method classname="AozoraCanvas" name="ignoreRubyStartingChar" signature="(Ljava/lang/String;)Ljava/lang/String;" isStatic="false">
+      <SourceLine classname="AozoraCanvas" start="507" end="530" startBytecode="0" endBytecode="38" opcodes="" sourcefile="AozoraCanvas.java"/>
+    </Method>
+    <LocalVariable name="?" register="4" pc="12" role="LOCAL_VARIABLE_UNKNOWN"/>
+    <SourceLine classname="AozoraCanvas" start="513" end="513" startBytecode="11" endBytecode="11" opcodes="187,89,183,78,28|54|43,19,28,182,54" sourcefile="AozoraCanvas.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="3" abbrev="DLS" category="STYLE" uid="1">
+    <Class classname="AozoraCanvas"/>
+    <Method classname="AozoraCanvas" name="parseAndDrawString" signature="(Ljavax/microedition/lcdui/Graphics;Ljava/lang/String;IIZ)I" isStatic="false">
+      <SourceLine classname="AozoraCanvas" start="627" end="737" startBytecode="0" endBytecode="207" opcodes="" sourcefile="AozoraCanvas.java"/>
+    </Method>
+    <LocalVariable name="rubyInfo" register="10" pc="111" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="AozoraCanvas" start="650" end="650" startBytecode="110" endBytecode="110" opcodes="21,182,29,21,183|58|42,29,183,62,132" sourcefile="AozoraCanvas.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="3" abbrev="DLS" category="STYLE" uid="2">
+    <Class classname="AozoraCanvas"/>
+    <Method classname="AozoraCanvas" name="parseAndDrawString" signature="(Ljavax/microedition/lcdui/Graphics;Ljava/lang/String;IIZ)I" isStatic="false">
+      <SourceLine classname="AozoraCanvas" start="627" end="737" startBytecode="0" endBytecode="207" opcodes="" sourcefile="AozoraCanvas.java"/>
+    </Method>
+    <LocalVariable name="rubyInfo" register="10" pc="382" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="AozoraCanvas" start="720" end="720" startBytecode="381" endBytecode="381" opcodes="21,182,29,21,183|58|42,29,183,62,132" sourcefile="AozoraCanvas.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="3">
+    <Class classname="AozoraMIDlet"/>
+    <Method classname="AozoraMIDlet" name="startApp" signature="()V" isStatic="false">
+      <SourceLine classname="AozoraMIDlet" start="34" end="60" startBytecode="0" endBytecode="92" opcodes="" sourcefile="AozoraMIDlet.java"/>
+    </Method>
+    <SourceLine classname="AozoraMIDlet" start="36" end="36" startBytecode="7" endBytecode="7" opcodes="184,87,167|76|1,76,184,76,167" sourcefile="AozoraMIDlet.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="4">
+    <Class classname="AozoraMIDlet"/>
+    <Method classname="AozoraMIDlet" name="startApp" signature="()V" isStatic="false">
+      <SourceLine classname="AozoraMIDlet" start="34" end="60" startBytecode="0" endBytecode="92" opcodes="" sourcefile="AozoraMIDlet.java"/>
+    </Method>
+    <SourceLine classname="AozoraMIDlet" start="44" end="44" startBytecode="17" endBytecode="17" opcodes="1,76,184,76,167|77|43,198,43,182,16" sourcefile="AozoraMIDlet.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="3" abbrev="DLS" category="STYLE" uid="5">
+    <Class classname="Bookmark"/>
+    <Method classname="Bookmark" name="toByteArray" signature="(LBookmark;)[B" isStatic="true">
+      <SourceLine classname="Bookmark" start="158" end="196" startBytecode="0" endBytecode="104" opcodes="" sourcefile="Bookmark.java"/>
+    </Method>
+    <LocalVariable name="b" register="3" pc="22" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="Bookmark" start="160" end="160" startBytecode="21" endBytecode="21" opcodes="43,183,77,1,192|78|44,4,182,44,42" sourcefile="Bookmark.java"/>
+  </BugInstance>
+  <BugInstance type="DM_CONVERT_CASE" priority="3" abbrev="Dm" category="I18N" uid="6">
+    <Class classname="DirectoryList"/>
+    <Method classname="DirectoryList" name="init" signature="(Ljava/lang/String;)V" isStatic="false">
+      <SourceLine classname="DirectoryList" start="54" end="93" startBytecode="0" endBytecode="157" opcodes="" sourcefile="DirectoryList.java"/>
+    </Method>
+    <SourceLine classname="DirectoryList" start="81" end="81" startBytecode="91" endBytecode="91" opcodes="44,185,192,78,45|182|18,182,153,42,45" sourcefile="DirectoryList.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="7">
+    <Class classname="DirectoryList"/>
+    <Method classname="DirectoryList" name="run" signature="()V" isStatic="false">
+      <SourceLine classname="DirectoryList" start="109" end="192" startBytecode="0" endBytecode="333" opcodes="" sourcefile="DirectoryList.java"/>
+    </Method>
+    <SourceLine classname="DirectoryList" start="187" end="187" startBytecode="320" endBytecode="320" opcodes="25,182,43,195,177|77|44,182,43,195,167" sourcefile="DirectoryList.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="3" abbrev="DLS" category="STYLE" uid="8">
+    <Class classname="FileInfo"/>
+    <Method classname="FileInfo" name="toByteArray" signature="(LFileInfo;)[B" isStatic="true">
+      <SourceLine classname="FileInfo" start="223" end="262" startBytecode="0" endBytecode="92" opcodes="" sourcefile="FileInfo.java"/>
+    </Method>
+    <LocalVariable name="b" register="3" pc="22" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="FileInfo" start="225" end="225" startBytecode="21" endBytecode="21" opcodes="43,183,77,1,192|78|44,5,182,44,42" sourcefile="FileInfo.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="3" abbrev="DLS" category="STYLE" uid="9">
+    <Class classname="RecordStoreUtil"/>
+    <Method classname="RecordStoreUtil" name="loadByteArray" signature="(Ljava/lang/String;)[B" isStatic="true">
+      <SourceLine classname="RecordStoreUtil" start="156" end="171" startBytecode="0" endBytecode="36" opcodes="" sourcefile="RecordStoreUtil.java"/>
+    </Method>
+    <LocalVariable name="b" register="2" pc="7" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="RecordStoreUtil" start="157" end="157" startBytecode="6" endBytecode="6" opcodes="1,76,1,192|77|178,89,78,194,42" sourcefile="RecordStoreUtil.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="12">
+    <Class classname="RecordStoreUtil"/>
+    <Method classname="RecordStoreUtil" name="loadBookmarks" signature="()LBookmarks;" isStatic="true">
+      <SourceLine classname="RecordStoreUtil" start="81" end="122" startBytecode="0" endBytecode="148" opcodes="" sourcefile="RecordStoreUtil.java"/>
+    </Method>
+    <SourceLine classname="RecordStoreUtil" start="93" end="93" startBytecode="45" endBytecode="45" opcodes="184,4,96,62,167|58|18,3,184,75,29" sourcefile="RecordStoreUtil.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="10">
+    <Class classname="RecordStoreUtil"/>
+    <Method classname="RecordStoreUtil" name="saveBookmarks" signature="(LBookmarks;)V" isStatic="true">
+      <SourceLine classname="RecordStoreUtil" start="32" end="77" startBytecode="0" endBytecode="155" opcodes="" sourcefile="RecordStoreUtil.java"/>
+    </Method>
+    <SourceLine classname="RecordStoreUtil" start="38" end="38" startBytecode="18" endBytecode="18" opcodes="78,194,18,184,167|58|18,184,167,58,18" sourcefile="RecordStoreUtil.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="11">
+    <Class classname="RecordStoreUtil"/>
+    <Method classname="RecordStoreUtil" name="saveBookmarks" signature="(LBookmarks;)V" isStatic="true">
+      <SourceLine classname="RecordStoreUtil" start="32" end="77" startBytecode="0" endBytecode="155" opcodes="" sourcefile="RecordStoreUtil.java"/>
+    </Method>
+    <SourceLine classname="RecordStoreUtil" start="44" end="44" startBytecode="28" endBytecode="28" opcodes="167,58,18,184,167|58|18,4,184,77,42" sourcefile="RecordStoreUtil.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="13">
+    <Class classname="RecordStoreUtil"/>
+    <Method classname="RecordStoreUtil" name="saveByteArray" signature="(Ljava/lang/String;[B)V" isStatic="true">
+      <SourceLine classname="RecordStoreUtil" start="129" end="151" startBytecode="0" endBytecode="64" opcodes="" sourcefile="RecordStoreUtil.java"/>
+    </Method>
+    <SourceLine classname="RecordStoreUtil" start="135" end="135" startBytecode="15" endBytecode="15" opcodes="78,194,42,184,167|58|42,4,184,77,44" sourcefile="RecordStoreUtil.java"/>
+  </BugInstance>
+  <BugInstance type="DLS_DEAD_LOCAL_STORE" priority="3" abbrev="DLS" category="STYLE" uid="14">
+    <Class classname="Settings"/>
+    <Method classname="Settings" name="toByteArray" signature="(LSettings;)[B" isStatic="true">
+      <SourceLine classname="Settings" start="185" end="212" startBytecode="0" endBytecode="79" opcodes="" sourcefile="Settings.java"/>
+    </Method>
+    <LocalVariable name="b" register="3" pc="22" role="LOCAL_VARIABLE_NAMED"/>
+    <SourceLine classname="Settings" start="187" end="187" startBytecode="21" endBytecode="21" opcodes="43,183,77,1,192|78|44,4,182,44,42" sourcefile="Settings.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="15">
+    <Class classname="Settings"/>
+    <Method classname="Settings" name="getInstance" signature="()LSettings;" isStatic="true">
+      <SourceLine classname="Settings" start="59" end="59" startBytecode="0" endBytecode="58" opcodes="" sourcefile="Settings.java"/>
+    </Method>
+    <SourceLine classname="Settings" start="67" end="67" startBytecode="33" endBytecode="33" opcodes="178,199,184,179,167|76|178,199,187,89,183" sourcefile="Settings.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="16">
+    <Class classname="SettingsForm"/>
+    <Method classname="SettingsForm" name="commandAction" signature="(Ljavax/microedition/lcdui/Command;Ljavax/microedition/lcdui/Displayable;)V" isStatic="false">
+      <SourceLine classname="SettingsForm" start="280" end="343" startBytecode="0" endBytecode="363" opcodes="" sourcefile="SettingsForm.java"/>
+    </Method>
+    <SourceLine classname="SettingsForm" start="330" end="330" startBytecode="304" endBytecode="304" opcodes="42,180,25,182,167|78|187,89,19,19,1" sourcefile="SettingsForm.java"/>
+  </BugInstance>
+  <Errors></Errors>
+  <FindBugsSummary timestamp="Mon, 5 Dec 2005 21:15:28 +0900" total_classes="9" total_bugs="17" total_size="0" num_packages="1" priority_3="17">
+    <PackageStats package="" total_bugs="17" total_types="9" total_size="0" priority_3="17">
+      <ClassStats class="AozoraCanvas" interface="false" size="0" bugs="3" priority_3="3"/>
+      <ClassStats class="AozoraMIDlet" interface="false" size="0" bugs="2" priority_3="2"/>
+      <ClassStats class="Bookmark" interface="false" size="0" bugs="1" priority_3="1"/>
+      <ClassStats class="BookmarksList" interface="false" size="0" bugs="0"/>
+      <ClassStats class="DirectoryList" interface="false" size="0" bugs="2" priority_3="2"/>
+      <ClassStats class="FileInfo" interface="false" size="0" bugs="1" priority_3="1"/>
+      <ClassStats class="RecordStoreUtil" interface="false" size="0" bugs="5" priority_3="5"/>
+      <ClassStats class="Settings" interface="false" size="0" bugs="2" priority_3="2"/>
+      <ClassStats class="SettingsForm" interface="false" size="0" bugs="1" priority_3="1"/>
+    </PackageStats>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

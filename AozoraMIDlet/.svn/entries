@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   revision="1"
+   url="svn+ssh://coderidge.3hands.jp/home/haruyama/lib/svnrepos/AozoraMIDlet"
+   last-author="haruyama"
+   uuid="03af1edd-be06-0410-ab22-ba0c0e49c5a4"
+   committed-date="2005-11-30T02:22:58.689757Z"
+   kind="dir"
+   name=""
+   committed-rev="1"/>
+<entry
+   revision="2"
+   checksum="545a6200be1f65191bc943536eb6b898"
+   last-author="haruyama"
+   prop-time="2005-11-30T02:26:02.000000Z"
+   text-time="2005-11-28T05:33:04.000000Z"
+   committed-date="2005-11-30T02:26:03.134000Z"
+   kind="file"
+   name=".classpath"
+   committed-rev="2"/>
+<entry
+   revision="2"
+   checksum="0055bfd1ff031104667fae8b8991fb10"
+   last-author="haruyama"
+   prop-time="2005-11-30T02:26:01.000000Z"
+   text-time="2005-11-30T02:23:54.000000Z"
+   committed-date="2005-11-30T02:26:03.134000Z"
+   kind="file"
+   name=".eclipseme"
+   committed-rev="2"/>
+<entry
+   revision="43"
+   checksum="e8f49a4140ef6c57111feee23accf424"
+   last-author="haruyama"
+   prop-time="2005-12-05T13:47:08.000000Z"
+   text-time="2005-12-23T14:56:26.000000Z"
+   committed-date="2005-12-23T15:02:39.450267Z"
+   kind="file"
+   name=".fbwarnings"
+   committed-rev="43"/>
+<entry
+   revision="2"
+   checksum="16558321e76a68e5acc8dfe2d719934e"
+   last-author="haruyama"
+   prop-time="2005-11-30T02:26:02.000000Z"
+   text-time="2005-11-28T05:33:04.000000Z"
+   committed-date="2005-11-30T02:26:03.134000Z"
+   kind="file"
+   name=".project"
+   committed-rev="2"/>
+<entry
+   kind="dir"
+   name=".settings"/>
+<entry
+   revision="86"
+   checksum="76881c2084d36cecedf516baf248b188"
+   last-author="haruyama"
+   prop-time="2005-11-30T02:26:01.000000Z"
+   text-time="2005-12-24T09:05:47.000000Z"
+   committed-date="2006-06-04T23:36:15.078000Z"
+   kind="file"
+   name="AozoraMIDlet.jad"
+   committed-rev="86"/>
+<entry
+   revision="9"
+   checksum="94d55d512a9ba36caa9b7df079bae19f"
+   last-author="haruyama"
+   text-time="2005-12-01T03:17:21.000000Z"
+   committed-date="2005-12-01T03:19:56.236603Z"
+   kind="file"
+   name="COPYING"
+   committed-rev="9"/>
+<entry
+   revision="43"
+   checksum="9ce187ecddb631287287c68c7f38f316"
+   last-author="haruyama"
+   prop-time="2005-11-30T02:26:01.000000Z"
+   text-time="2005-12-23T15:00:57.000000Z"
+   committed-date="2005-12-23T15:02:39.450267Z"
+   kind="file"
+   name="Readme.txt"
+   committed-rev="43"/>
+<entry
+   kind="dir"
+   name="res"/>
+<entry
+   kind="dir"
+   name="src"/>
+</wc-entries>

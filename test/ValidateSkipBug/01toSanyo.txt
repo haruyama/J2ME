@@ -1,0 +1,47 @@
+https://e-life-sanyo.com/support/stel/info.html
+https://e-life-sanyo.com/support/stel/info2.html?;4;1;5
+
+WX310SA Java InputStream.skip(long n)のバグ?
+
+WX310SAを購入しJavaアプリケーションを開発しているものです。
+
+InputStream クラスの skip(long n)メソッドを利用すると
+WX310SA と  
+Java 2, Micro Edition (J2ME) Wireless Toolkit 2.2 Release (+patch)
+http://java.sun.com/products/sjwtoolkit/download-2_2.html
+とで動作が異なります。WX310SAのほうが間違っているように
+思えます。
+
+検証のため
+http://www.unixuser.org/~haruyama/software/j2me/test/ValidateSkipBug/
+を作り、
+http://www.unixuser.org/~haruyama/software/j2me/test/ValidateSkipBug/deployed/
+のファイルをJava 2, Micro Edition (J2ME) Wireless Toolkit
+のエミュレータとWX310SAで動かすと、
+( http://www.aozora.gr.jp/cards/000168/files/2156_ruby.zip
+を展開し「chuubounikki.txt」として「file:///SD:/PC_INOUT」で参照される場所におく必要があります)
+WX310SAでは、0byteスキップしようとした場合を除いて 200byte余計に
+スキップしています。
+
+スキップ処理の部分の抜粋
+----------
+// fcはFileConnection
+                        is = fc.openInputStream();
+
+                        long skip = 0;
+                        while(offset >  skip) {
+                            skip += is.skip(offset-skip);
+                        }
+----------
+
+miniSDカードは「FL-MSD1G」、LG電子製1GBのものです。
+＃サポート外のものです
+miniSDカード以外に本体メモリ 「file:///PS:/$OTHER」以下のファイルについても
+確認しました.
+
+なお、この問題については開発者間の技術共有のため 
+2ch において報告しております。
+http://hobby7.2ch.net/test/read.cgi/appli/1127825047/795
+http://hobby7.2ch.net/test/read.cgi/appli/1127825047/803
+そのため、「弊社からお客さまへの返事の一部または全部を転用したり二次使用することはご遠慮ください。」とありますが、返事の内容について適当に
+公開することをお許しください。

@@ -1,0 +1,50 @@
+http://www.google.co.jp/support/bin/request.py?form_type=user&stage=fm&user_type=user&contact_type=other_user&continue=%E6%AC%A1%E3%81%B8
+
+からおくってみた内容:
+
+haruyama@unixuser.org
+
+携帯JavaアプリケーションでのGoogle Maps画像使用許可のお願い
+
+春山征吾と申します.
+
+携帯JavaアプリケーションでGoogle Mapsの画像を使用する許可が頂きたく,
+お願い致します.
+
+現在, MIDP 2.0
+http://java.sun.com/products/midp/index.jsp
+上で動くアプリケーションを作成しようとしております.
+
+このアプリケーションは, Google Maps API を用いず,
+http://mt0.google.com/mt?v=w2.6&n=404&x=116401&y=51623&zoom=0
+といったURLにGET要求を送信し画像を取得して,
+その画像を携帯電話の画面上に表示します.
+
+試作品を
+http://www.unixuser.org/%7Eharuyama/software/j2me/MapMIDlet/
+にて公開しております. 
+(詳細: http://www.unixuser.org/%7Eharuyama/software/j2me/MapMIDlet/Readme.txt)
+
+この試作品は,
+11/25発売のPHS WX310SA
+http://www.willcom-inc.com/ja/lineup/wx/310sa/
+http://www.sanyo-keitai.com/willcom/wx310sa/index.shtml
+と, Java 2, Micro Edition (J2ME) Wireless Toolkit 2.2 Release
+http://java.sun.com/products/sjwtoolkit/download-2_2.html
+での動作を確認しております.
+
+現状,
+Google ローカルの利用規約
+http://local.google.co.jp/intl/ja_jp/help/terms_local.html
+に抵触する恐れがあること,
+また適切な権利表示がなされていないことを理解しております.
+
+適当な条件のもとで Google Maps の画像の利用を許可して頂きたいので
+連絡致しました.
+もし利用が許されない場合には, アプリケーションの開発・公開を
+(試作品を含めて)とりやめます.
+
+お手数ですがよろしくお願い致します.
+
+--
+春山 征吾 / HARUYAMA Seigo  haruyama@unixuser.org  haruyama@queen-ml.org

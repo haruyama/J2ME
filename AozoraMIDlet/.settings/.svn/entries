@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-11-30T02:26:03.134000Z"
+   url="svn+ssh://coderidge.3hands.jp/home/haruyama/lib/svnrepos/AozoraMIDlet/.settings"
+   last-author="haruyama"
+   kind="dir"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="org.eclipse.jdt.core.prefs"
+   text-time="2005-11-28T05:33:05.000000Z"
+   committed-date="2005-11-30T02:26:03.134000Z"
+   checksum="a22bc6b780d12123493372bb7185d542"
+   last-author="haruyama"
+   kind="file"
+   prop-time="2005-11-30T02:26:01.000000Z"/>
+<entry
+   committed-rev="19"
+   name="eclipseme.core.prefs"
+   text-time="2005-12-05T03:22:07.000000Z"
+   committed-date="2005-12-05T13:47:11.845821Z"
+   checksum="f219683d4977c25086030ad04e4774ed"
+   last-author="haruyama"
+   kind="file"
+   prop-time="2005-12-05T13:47:08.000000Z"
+   revision="19"/>
+</wc-entries>

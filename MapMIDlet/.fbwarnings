@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="0.9.3" sequence="0" timestamp="-1" release="">
+  <Project filename="&lt;&lt;unnamed project&gt;&gt;">
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/Bookmark.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/BookmarkRegisterForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/Bookmarks.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/BookmarksList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/BookmarksOperationForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/BookmarksOperationForm$2.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/BookmarksOperationForm$3.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/BookmarksOperationForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/CacheFilenames.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/FileList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/FileUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/GeocoodingInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/HelpForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/HttpUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/ImageInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/InfoSetForm$MyItemStateListner.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/InfoSetForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/MapCanvas$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/MapCanvas.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/MapMIDlet$MyAction.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/MapMIDlet$MyCommandListener.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/MapMIDlet.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/MkdirForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/MkdirForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/RecordStoreUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/SearchForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/SearchForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/SelectList$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/SelectList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/Settings.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/SettingsForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/SettingsForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/uxparser/XContent.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/uxparser/XElem.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/uxparser/XNs.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/uxparser/XParser.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin/uxparser/XText.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/Bookmark.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/BookmarkRegisterForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/Bookmarks.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/BookmarksList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/BookmarksOperationForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/BookmarksOperationForm$2.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/BookmarksOperationForm$3.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/BookmarksOperationForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/CacheFilenames.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/FileList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/FileUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/GeocoodingInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/HelpForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/HttpUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/ImageInfo.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/InfoSetForm$MyItemStateListner.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/InfoSetForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/MapCanvas$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/MapCanvas.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/MapMIDlet$MyAction.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/MapMIDlet$MyCommandListener.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/MapMIDlet.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/MkdirForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/MkdirForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/RecordStoreUtil.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/SearchForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/SearchForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/SelectList$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/SelectList.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/Settings.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/SettingsForm$1.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/SettingsForm.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/uxparser/XContent.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/uxparser/XElem.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/uxparser/XNs.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/uxparser/XParser.class</Jar>
+    <Jar>/home/haruyama/lib/eclipse/workspace/MapMIDlet/verified/classes/uxparser/XText.class</Jar>
+    <AuxClasspathEntry>/home/haruyama/lib/eclipse/workspace/MapMIDlet/bin</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/jsr184.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/wma20.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/cldcapi11.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/midpapi20.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/jsr75.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/jsr082.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/haruyama/lib/Java/WTK2.2/lib/j2me-ws.jar</AuxClasspathEntry>
+  </Project>
+  <BugInstance type="RCN_REDUNDANT_NULLCHECK_OF_NONNULL_VALUE" priority="3" abbrev="RCN" category="CORRECTNESS" uid="6">
+    <Class classname="BookmarksOperationForm$1"/>
+    <Method classname="BookmarksOperationForm$1" name="run" signature="()V" isStatic="false">
+      <SourceLine classname="BookmarksOperationForm$1" start="97" end="147" startBytecode="0" endBytecode="111" opcodes="" sourcefile="BookmarksOperationForm.java"/>
+    </Method>
+    <SourceLine classname="BookmarksOperationForm$1" start="113" end="113" startBytecode="107" endBytecode="107" opcodes="184,25,182,177,44|199|187,89,18,18,1" sourcefile="BookmarksOperationForm.java" role="SOURCE_REDUNDANT_NULL_CHECK"/>
+  </BugInstance>
+  <BugInstance type="DM_GC" priority="1" abbrev="Dm" category="PERFORMANCE" uid="7">
+    <Class classname="ImageInfo"/>
+    <Method classname="ImageInfo" name="getInstance" signature="(Ljava/lang/String;Ljava/lang/String;II)LImageInfo;" isStatic="true">
+      <SourceLine classname="ImageInfo" start="202" end="241" startBytecode="0" endBytecode="202" opcodes="" sourcefile="ImageInfo.java"/>
+    </Method>
+    <SourceLine classname="ImageInfo" start="232" end="232" startBytecode="154" endBytecode="154" opcodes="43,182,182,184,58|184|25,3,25,190,184" sourcefile="ImageInfo.java"/>
+  </BugInstance>
+  <BugInstance type="SIC_INNER_SHOULD_BE_STATIC_ANON" priority="3" abbrev="SIC" category="PERFORMANCE" uid="2">
+    <Class classname="MapMIDlet$1"/>
+    <SourceLine classname="MapMIDlet$1" start="73" end="73" startBytecode="0" endBytecode="0" opcodes="" sourcefile="/home/haruyama/lib/eclipse/workspace/MapMIDlet/src/MapMIDlet.java"/>
+  </BugInstance>
+  <BugInstance type="REC_CATCH_EXCEPTION" priority="3" abbrev="REC" category="STYLE" uid="100">
+    <Class classname="MapMIDlet$2"/>
+    <Method classname="MapMIDlet$2" name="run" signature="()V" isStatic="false">
+      <SourceLine classname="MapMIDlet$2" start="57" end="73" startBytecode="0" endBytecode="52" opcodes="" sourcefile="MapMIDlet.java"/>
+    </Method>
+    <SourceLine classname="MapMIDlet$2" start="68" end="68" startBytecode="34" endBytecode="34" opcodes="61,25,182,62,167|58|27,28,29,184,58" sourcefile="MapMIDlet.java"/>
+  </BugInstance>
+  <BugInstance type="SIC_INNER_SHOULD_BE_STATIC_ANON" priority="3" abbrev="SIC" category="PERFORMANCE" uid="101">
+    <Class classname="MapMIDlet$2"/>
+    <SourceLine classname="MapMIDlet$2" start="52" end="52" startBytecode="0" endBytecode="0" opcodes="" sourcefile="/home/haruyama/lib/eclipse/workspace/MapMIDlet/src/MapMIDlet.java"/>
+  </BugInstance>
+  <Errors></Errors>
+  <FindBugsSummary timestamp="Mon, 26 Dec 2005 16:49:19 +0900" total_classes="15" total_bugs="5" total_size="0" num_packages="2" priority_3="4" priority_1="1">
+    <PackageStats package="uxparser" total_bugs="0" total_types="4" total_size="0">
+      <ClassStats class="uxparser.XContent" interface="false" size="0" bugs="0"/>
+      <ClassStats class="uxparser.XElem" interface="false" size="0" bugs="0"/>
+      <ClassStats class="uxparser.XNs" interface="false" size="0" bugs="0"/>
+      <ClassStats class="uxparser.XText" interface="false" size="0" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="" total_bugs="5" total_types="11" total_size="0" priority_3="4" priority_1="1">
+      <ClassStats class="Bookmark" interface="false" size="0" bugs="0"/>
+      <ClassStats class="BookmarksOperationForm$1" interface="false" size="0" bugs="1" priority_3="1"/>
+      <ClassStats class="HttpUtil" interface="false" size="0" bugs="0"/>
+      <ClassStats class="ImageInfo" interface="false" size="0" bugs="1" priority_1="1"/>
+      <ClassStats class="MapCanvas" interface="false" size="0" bugs="0"/>
+      <ClassStats class="MapMIDlet" interface="false" size="0" bugs="0"/>
+      <ClassStats class="MapMIDlet$1" interface="false" size="0" bugs="1" priority_3="1"/>
+      <ClassStats class="MapMIDlet$2" interface="false" size="0" bugs="2" priority_3="2"/>
+      <ClassStats class="RecordStoreUtil" interface="false" size="0" bugs="0"/>
+      <ClassStats class="Settings" interface="false" size="0" bugs="0"/>
+      <ClassStats class="SettingsForm" interface="false" size="0" bugs="0"/>
+    </PackageStats>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

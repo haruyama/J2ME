@@ -1,0 +1,8 @@
+MIDlet-Version: 0.0.30
+MIDlet-Vendor: HARUYAMA Seigo
+MIDlet-Jar-URL: MapMIDlet.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: MapMIDlet,,MapMIDlet
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Permissions: javax.microedition.io.Connector.file.read,javax.microedition.io.Connector.file.write
+MIDlet-Name: Google Maps もどき
